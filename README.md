@@ -36,9 +36,10 @@ Values: static, relative, absolute, fixed, sticky.
 
 
 
-🤖 here is the preview of my code:
+🤖 <a href="https://www.linkedin.com/in/hackerspider0/">LinkedIn</a>
 
 🤖 Code Link: https://github.com/hackerspider0/Design-a-card.git
+
 
 
  
